@@ -1,8 +1,7 @@
 import pickle
 
 import argparse
-# 4.23 10：10
-  
+
 
 # 实现了无向图的所有内容，得到了所需要的项目的邻居权重向量，还有邻居列表
 parser = argparse.ArgumentParser()
